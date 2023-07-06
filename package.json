@@ -8,7 +8,12 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prisma": "^4.16.2"
+  },
   "dependencies": {
+    "@prisma/client": "^4.16.2",
     "@types/node": "20.4.0",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
